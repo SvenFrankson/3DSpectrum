@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MusicTerrain.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraMove.cs" Line="2" Column="61" />
+      <File FileName="Assets\Scripts\MusicTerrain.cs" Line="43" Column="3" />
+      <File FileName="Assets\Scripts\SoundCallback.cs" Line="2" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
